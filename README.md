@@ -1,0 +1,1 @@
+A client side dynamic album using AJAX calls to dynamically rebuild the web pages, with restful api, build for course project. Website is deployed here:https://young-bayou-67790.herokuapp.com/uxw4oq6i/p3/
